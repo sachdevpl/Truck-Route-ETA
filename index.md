@@ -29,7 +29,7 @@ Here’s a preview of the app in action:
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
   <div style="flex: 1; text-align: center; max-width: 25%;">
-    <img src="./assets/truck_eta_1.jpg" alt="Main screen" style="width:100%;">
+    <img src="assets/truck_eta_1.jpg" alt="Main screen" style="width:100%;">
     <p><em>Clean and simple route overview.</em></p>
   </div>
 
