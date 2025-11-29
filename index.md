@@ -26,17 +26,29 @@ Know your ETA at every stop, plan smarter breaks, and stay compliant with HOS ru
 ## 🖼️ Screenshots
 Here’s a preview of the app in action:
 
-![Main screen](./asset/truck_eta_1.jpg)  
-*Clean and simple route overview.*
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
-![ETA planner](./asset/truck_eta_2.jpg)  
-*Precise ETA calculation with HOS rules.*
+  <div style="flex: 1; text-align: center; max-width: 25%;">
+    <img src="./assets/truck_eta_1.jpg" alt="Main screen" style="width:100%;">
+    <p><em>Clean and simple route overview.</em></p>
+  </div>
 
-![Backtrack mode](./asset/truck_eta_3.jpg)  
-*Plan departures backwards from appointments.*
+  <div style="flex: 1; text-align: center; max-width: 25%;">
+    <img src="./assets/truck_eta_2.jpg" alt="ETA planner" style="width:100%;">
+    <p><em>Precise ETA calculation with HOS rules.</em></p>
+  </div>
 
-![Dark mode](./asset/truck_eta_4.jpg)  
-*Modern design that adapts to your workflow.*
+  <div style="flex: 1; text-align: center; max-width: 25%;">
+    <img src="./assets/truck_eta_3.jpg" alt="Backtrack mode" style="width:100%;">
+    <p><em>Plan departures backwards from appointments.</em></p>
+  </div>
+
+  <div style="flex: 1; text-align: center; max-width: 25%;">
+    <img src="./assets/truck_eta_4.jpg" alt="Dark mode" style="width:100%;">
+    <p><em>Modern design that adapts to your workflow.</em></p>
+  </div>
+
+</div>
 
 ---
 
