@@ -6,7 +6,7 @@ title: Truck Route ETA
 
   <img src="./asset/truck_eta.png" alt="App Icon" style="width:60px; height:60px;">
 
-  <h1 style="margin:0;">🚛 Truck Route ETA</h1>
+  <h1 style="margin:0;"> Truck Route ETA</h1>
 
 </div>
 Smarter planning for truckers. More home time, better sleep, longer breaks, fewer headaches.
