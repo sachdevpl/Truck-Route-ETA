@@ -2,6 +2,13 @@
 layout: default
 title: Truck Route ETA
 ---
+<div style="display:flex; align-items:center; gap:15px; justify-content:center;">
+
+  <img src="./asset/truck_eta_icon_web.png" alt="App Icon" style="width:60px; height:60px;">
+
+  <h1 style="margin:0;">🚛 Truck Route ETA</h1>
+
+</div>
 
 # 🚛 Truck Route ETA
 Smarter planning for truckers. More home time, better sleep, longer breaks, fewer headaches.
