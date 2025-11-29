@@ -26,16 +26,16 @@ Know your ETA at every stop, plan smarter breaks, and stay compliant with HOS ru
 ## 🖼️ Screenshots
 Here’s a preview of the app in action:
 
-![Main screen](assets/iPhone 16 Pro - 1.jpg)  
+![Main screen](asset/iPhone 16 Pro - 1.jpg)  
 *Clean and simple route overview.*
 
-![ETA planner](assets/example2.jpg)  
+![ETA planner](asset/example2.jpg)  
 *Precise ETA calculation with HOS rules.*
 
-![Backtrack mode](assets/example3.jpg)  
+![Backtrack mode](asset/example3.jpg)  
 *Plan departures backwards from appointments.*
 
-![Dark mode](assets/example4.jpg)  
+![Dark mode](asset/example4.jpg)  
 *Modern design that adapts to your workflow.*
 
 ---
