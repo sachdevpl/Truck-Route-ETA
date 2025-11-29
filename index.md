@@ -29,22 +29,22 @@ Here’s a preview of the app in action:
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
   <div style="flex: 1; text-align: center; max-width: 25%;">
-    <img src="assets/truck_eta_1.jpg" alt="Main screen" style="width:100%;">
+    <img src="./asset/truck_eta_1.jpg" alt="Main screen" style="width:100%;">
     <p><em>Clean and simple route overview.</em></p>
   </div>
 
   <div style="flex: 1; text-align: center; max-width: 25%;">
-    <img src="./assets/truck_eta_2.jpg" alt="ETA planner" style="width:100%;">
+    <img src="./asset/truck_eta_2.jpg" alt="ETA planner" style="width:100%;">
     <p><em>Precise ETA calculation with HOS rules.</em></p>
   </div>
 
   <div style="flex: 1; text-align: center; max-width: 25%;">
-    <img src="./assets/truck_eta_3.jpg" alt="Backtrack mode" style="width:100%;">
+    <img src="./asset/truck_eta_3.jpg" alt="Backtrack mode" style="width:100%;">
     <p><em>Plan departures backwards from appointments.</em></p>
   </div>
 
   <div style="flex: 1; text-align: center; max-width: 25%;">
-    <img src="./assets/truck_eta_4.jpg" alt="Dark mode" style="width:100%;">
+    <img src="./asset/truck_eta_4.jpg" alt="Dark mode" style="width:100%;">
     <p><em>Modern design that adapts to your workflow.</em></p>
   </div>
 
