@@ -57,5 +57,7 @@ Here’s a preview of the app in action:
 
 ---
 
+*Support information* contact: *truckaxlecalc@gmail.com*
+
 ## ✨ Why Truck Route ETA?
 Because every mile matters. With smarter planning, you get more control over your day — and more time for what really counts.
