@@ -28,6 +28,7 @@ Know your ETA at every stop, plan smarter breaks, and stay compliant with HOS ru
 
 ---
 
+
 ## 🖼️ Screenshots
 Here’s a preview of the app in action:
 
