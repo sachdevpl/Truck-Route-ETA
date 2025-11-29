@@ -26,7 +26,7 @@ Know your ETA at every stop, plan smarter breaks, and stay compliant with HOS ru
 ## 🖼️ Screenshots
 Here’s a preview of the app in action:
 
-![Main screen](asset/iPhone 16 Pro - 1.jpg)  
+![Main screen](asset/truck_eta_1.jpg)  
 *Clean and simple route overview.*
 
 ![ETA planner](asset/example2.jpg)  
