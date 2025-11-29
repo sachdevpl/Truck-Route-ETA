@@ -29,13 +29,13 @@ Here’s a preview of the app in action:
 ![Main screen](asset/truck_eta_1.jpg)  
 *Clean and simple route overview.*
 
-![ETA planner](asset/example2.jpg)  
+![ETA planner](asset/truck_eta_2.jpg)  
 *Precise ETA calculation with HOS rules.*
 
-![Backtrack mode](asset/example3.jpg)  
+![Backtrack mode](asset/truck_eta_3.jpg)  
 *Plan departures backwards from appointments.*
 
-![Dark mode](asset/example4.jpg)  
+![Dark mode](asset/truck_eta_4.jpg)  
 *Modern design that adapts to your workflow.*
 
 ---
