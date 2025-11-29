@@ -65,3 +65,6 @@ Because every mile matters. With smarter planning, you get more control over you
 
 
 *Support information* contact: *truckaxlecalc@gmail.com*
+
+
+![logo](./asset/Google_Play.png) ![logo](./asset/App_Store.png)
