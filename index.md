@@ -26,16 +26,16 @@ Know your ETA at every stop, plan smarter breaks, and stay compliant with HOS ru
 ## 🖼️ Screenshots
 Here’s a preview of the app in action:
 
-![Main screen](asset/truck_eta_1.jpg)  
+![Main screen](./asset/truck_eta_1.jpg)  
 *Clean and simple route overview.*
 
-![ETA planner](asset/truck_eta_2.jpg)  
+![ETA planner](./asset/truck_eta_2.jpg)  
 *Precise ETA calculation with HOS rules.*
 
-![Backtrack mode](asset/truck_eta_3.jpg)  
+![Backtrack mode](./asset/truck_eta_3.jpg)  
 *Plan departures backwards from appointments.*
 
-![Dark mode](asset/truck_eta_4.jpg)  
+![Dark mode](./asset/truck_eta_4.jpg)  
 *Modern design that adapts to your workflow.*
 
 ---
