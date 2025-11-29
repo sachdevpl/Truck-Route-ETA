@@ -9,8 +9,6 @@ title: Truck Route ETA
   <h1 style="margin:0;">🚛 Truck Route ETA</h1>
 
 </div>
-
-# 🚛 Truck Route ETA
 Smarter planning for truckers. More home time, better sleep, longer breaks, fewer headaches.
 
 ---
