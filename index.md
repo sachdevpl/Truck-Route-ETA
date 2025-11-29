@@ -4,7 +4,7 @@ title: Truck Route ETA
 ---
 <div style="display:flex; align-items:center; gap:15px; justify-content:center;">
 
-  <img src="./asset/trucker_eta_calculator.png" alt="App Icon" style="width:60px; height:60px;">
+  <img src="./asset/trucker-eta-calculator.png" alt="App Icon" style="width:60px; height:60px;">
 
   <h1 style="margin:0;">🚛 Truck Route ETA</h1>
 
