@@ -35,7 +35,7 @@ Here’s a preview of the app in action:
 
   <div style="flex: 1; text-align: center; max-width: 25%;">
     <img src="./asset/trucker_eta_1.jpg" alt="Main screen" style="width:100%; border-radius:8px;">
-    <p><em>Clean and simple route overview.</em></p>
+    <p><em>Clean and simple easy to use design.</em></p>
   </div>
 
   <div style="flex: 1; text-align: center; max-width: 25%;">
