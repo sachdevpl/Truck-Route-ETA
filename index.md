@@ -67,4 +67,12 @@ Because every mile matters. With smarter planning, you get more control over you
 *Support information* contact: *truckaxlecalc@gmail.com*
 
 
-![logo](./asset/Google_Play.png) ![logo](./asset/App_Store.png)
+<!-- ![logo](./asset/Google_Play.png) ![logo](./asset/App_Store.png) -->
+
+<a href="https://play.google.com/store/apps/details?id=com.yahoo.schlopecki.truckeretacalculator.trucker_eta_calculator">
+  <img src="./asset/Google_Play.png" alt="Google Play" width="150"/>
+</a>
+&nbsp;
+<a href="https://apps.apple.com/app/6755892867">
+  <img src="./asset/App_Store.png" alt="App Store" width="150"/>
+</a>
